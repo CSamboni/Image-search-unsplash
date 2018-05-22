@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Oswald;
+}
+
+button {
+  margin-left:10px;
+  margin-top:20px;
+  font-size: 1em;
+}
+input {
+  margin-left: 10px;
+  margin-top: 20px;
+}
